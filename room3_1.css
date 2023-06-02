@@ -1,0 +1,179 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(./img/bomb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#woord1{
+    border: 5px;
+    border-style: solid;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 2px;
+    margin-right: 2px;
+    transform: translate(1050%,500%);
+    border-radius: 50px;
+}
+#woord2{
+    border: 5px;
+    border-style: solid;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 2px;
+    margin-right: 2px;
+    transform: translate(1050%,500%);
+    border-radius: 50px;
+}
+#woord3{
+    border: 5px;
+    border-style: solid;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 2px;
+    margin-right: 2px;
+    transform: translate(1050%,500%);
+    border-radius: 50px;
+}
+#woord4{
+    border: 5px;
+    border-style: solid;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 2px;
+    margin-right: 2px;
+    transform: translate(1050%,500%);
+    border-radius: 50px;
+}
+#secret{
+    background-color: rgb(97, 97, 97);
+    width: 400px;
+    font-size: 40px;
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    transform: translate(-135%,200%);
+   
+}
+#submiting{
+    background-color: rgb(135, 10, 10);
+    font-size: 30px;
+    border: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    transform: translate(900%,1000%);
+    cursor: pointer;
+}
+#submiting:hover{
+    background-color: rgba(198, 18, 18, 0.607);
+    font-size: 30px;
+    border: 3px;
+    border-style: solid;
+    border-radius: 5px;
+    transform: translate(900%,1000%);
+    cursor: pointer;
+}
+
+
+h1{
+    background-color: rgb(127, 127, 127);
+    color: rgb(203, 13, 13);
+    font-size: 90px;
+    width: 250px;
+    border: 5px;
+    border-style:solid;
+    border-radius: 5px;
+    border-color: black;
+    text-align: center;
+    transform: translate(145%,250%);
+    
+}
+#info{
+    background-color: gray;
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(12, 12, 12);
+    font-size: 50px;
+    cursor: pointer;
+    transform: translate(730%,-400%);
+  }
+  #info:hover{
+    background-color: rgb(87, 87, 87);
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(12, 12, 12, 0.544);
+    font-size: 50px;
+    cursor: pointer;
+    transform: translate(730%,-400%);}
+  #infotext{
+    background-color: rgba(128, 128, 128, 0.67);
+    border: 2px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: rgb(12, 12, 12);
+    padding-top: 50px;
+    font-size: 20px;
+    transform: translate(-130%,-150%);
+    cursor: pointer;
+    height: 100px;
+    width: 400px;  
+    text-align:center;
+    visibility: hidden;
+  }
+  
+  #help{
+    background-color: rgb(100, 100, 100);
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(12, 12, 12);
+    font-size: 50px;
+    cursor: pointer;
+    transform: translate(30%,-500%);
+  }
+  #help:hover{
+    background-color: rgb(87, 87, 87);
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgba(12, 12, 12, 0.544);
+    font-size: 50px;
+    cursor: pointer;
+    transform: translate(30%,-500%);
+    
+}
+#helptext{
+    background-color: rgba(128, 128, 128, 0.67);
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(12, 12, 12);
+    padding-top: 10px;
+    font-size: 20px;
+    transform: translate(-350%,-605%);
+    cursor: pointer;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    visibility: hidden;
+  }
+  #symbols {
+    transform: translate(-10%,1400%);
+    height: 20px;
+    width: 500px;
+    margin:  0 auto;
+    /* background-size: auto; */
+  }
+article{
+ background-color: aqua;
+ width: 40px;
+ height: 50px;
+ margin: 5px;
+ font-size: 40px;
+ float: right;
+ text-align: center;
+}

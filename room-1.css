@@ -1,0 +1,131 @@
+
+
+
+body{
+    background-image: url("img/forest.1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+  }
+  #article9{
+    color: gray;
+    font-size: 10px;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    transform: translate(-2700%,400%);
+    margin: auto;
+    left: 50%;
+    cursor: pointer;
+  }
+    
+  #articleplus{ 
+    color: rgb(128, 187, 122);
+    font-size: 15px;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    transform: translate(-700%,3000%);
+    margin: auto;
+    left: 50%;
+    cursor: pointer;
+  }
+  #article8{
+   
+    color: rgba(99, 196, 88, 0.336);
+    font-size: 15px;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    transform: translate(500%,1000%);
+    margin: auto;
+    left: 50%;
+    cursor: pointer;
+  }
+  #articletimes{
+   color: rgb(12, 18, 1);
+    font-size: 20px;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    transform: translate(1200%,3390%);
+    margin: auto;
+    left: 50%;
+    cursor: pointer;
+  }
+  #article31{
+  
+    color: rgba(99, 196, 88, 0.601);
+    font-size: 15px;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    transform: translate(3550%,2200%);
+    margin: auto;
+    left: 50%;
+    cursor: pointer;
+  }
+  #door{
+    background-color: rgb(42, 63, 21);
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(12, 12, 12);
+    transform: translate(2200%,2200%);
+    font-size: 15px;
+    cursor: pointer;
+    
+  }
+  #door:hover{
+    background-color: rgb(132, 196, 117);
+  }
+  #article{
+    background-color: rgba(28, 94, 18, 0.56);
+    height: 100px;
+    width: 50px;
+    border-radius: 10px;
+    border-color: none;
+    border: 0px;
+    transform: translate(1910%,465%);
+    visibility: hidden;
+    cursor: pointer;
+   
+  }
+  #info{
+    background-color: rgb(128, 128, 128);
+    border: 2px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: rgb(12, 12, 12);
+    font-size: 20px;
+    cursor: pointer;
+    transform: translate(230%,350%);
+  }
+  #info:hover{
+    background-color: rgb(171, 164, 164);
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(12, 12, 12);
+    font-size: 20px;
+    cursor: pointer;
+  
+  }
+  #infotext{
+    background-color: rgba(128, 128, 128, 0.67);
+    border: 2px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(12, 12, 12);
+    font-size: 20px;
+    transform: translate(150%,10%);
+    cursor: pointer;
+    height: 100px;
+    width: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    visibility: hidden;
+  }
+  

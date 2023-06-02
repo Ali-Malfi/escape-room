@@ -1,0 +1,24 @@
+
+body{
+    background-image: url(./img/room.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+  }
+  
+  #click-me{
+    background-color: rgba(128, 128, 128, 0.434);
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    height: 130px;
+    width: 60px;
+    transform: translate(1420%,305%);
+  
+  }
+  #click-me:hover{
+    background-color: rgba(113, 21, 21, 0.856);
+  }

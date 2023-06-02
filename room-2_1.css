@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0c67ae;
+    background-image: url(./img/cave\ 2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+#wrapper{
+max-width: 800px;
+/* background-color: antiquewhite; */
+margin:0 auto;
+}
+
+.left, .center, .right{
+    float:left;
+}
+
+.right{
+    padding-top:163px;
+}
+
+#title {
+    height: 150px;
+    width: 400px;
+}
+
+#board {
+    display: flex;
+    width: 360px;
+    height: 360px;
+    background-color: lightblue;
+    border: 10px solid #0c67ae;
+    flex-wrap: wrap;
+}
+
+#board img {
+    width: 118px;
+    height: 118px;
+    border: 1px solid #0c67ae;
+}
+
+.btn-wrapper {
+    width: 100%;
+}
+#help-puzzle {
+    background-color: #0c67ae;
+    width: 50px;
+    height: 25px;
+    /* border: none; */
+    border-radius: 10px;
+    
+}
+#room-3{
+background-color: #0c67ae;
+border-radius: 8px;
+/* border: none; */
+width: 100px;
+height: 30px;
+margin-left: 30%;
+margin-top: 5%;
+}
+
+

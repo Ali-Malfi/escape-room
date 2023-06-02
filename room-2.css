@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(./img/cave.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+.wrapper-button {
+    width: 100%;
+   text-align: center; 
+    
+
+}
+#play-puzzle {
+   cursor: pointer;
+   margin-top: 22%;
+    margin-left: 63%;
+    background-color: green;
+    border: none;
+    width: 70px;
+    height: 30px;
+    border-radius: 8px;
+
+}
